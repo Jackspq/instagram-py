@@ -12,8 +12,8 @@ from .colors import *
 
 
 class InstagramPyCLI:
-    username = None
-    started = None
+    username = cute_jeba
+    started = yes
     verbose = 0
 
     def __init__(self, appinfo, started, verbose_level, username):
